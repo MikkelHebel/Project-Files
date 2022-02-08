@@ -1,5 +1,5 @@
 # Project-Files
-This is a collection of all our arduino files. It contains files from projects such as CanSat and our car project.
+This is a collection of all our Arduino files. It contains files from projects such as CanSat and our car project.
 
 ## List of files and folders
 1. alseT folder (Totally not Tesla backwards)
