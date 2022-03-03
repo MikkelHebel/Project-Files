@@ -31,8 +31,6 @@ void setup () {
   // Sensor A pins
   pinMode(TRIG_PIN,OUTPUT);
   pinMode(ECHO_PIN,INPUT);
-  pinMode(32,OUTPUT);
-  digitalWrite(32, HIGH);
   // LED
   pinMode(LED_BUILTIN, OUTPUT);
   digitalWrite(LED_BUILTIN, LOW);
