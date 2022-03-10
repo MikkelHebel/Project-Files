@@ -4,12 +4,10 @@
 char debug = true;
 
 // Motor A
-int ENA = 36;
 int IN1 = 15;
 int IN2 = 2;
 
 // Motor B
-int ENB = 39;
 int IN3 = 0;
 int IN4 = 4;
 
