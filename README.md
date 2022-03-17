@@ -3,8 +3,10 @@ This is a collection of all our Arduino files. It contains files from projects s
 
 ## List of files and folders
 1. FireGuard folder
+   - FireGuard
+     - FireGuards brain module.
    - FireDetection
-     - Our fire detection module
+     - Our fire detection module.
 2. alseT folder (Totally not Tesla backwards)
    - MotorController
      - This is our engine file for our car project.
