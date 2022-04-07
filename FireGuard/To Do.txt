@@ -1,13 +1,13 @@
 1. Get the video stream
-	1.1 Get the video stream from the drone to a computer or server.
+	1.1 Get the video stream from the drone to a computer or server
 
 2. Analyse the video stream
-	2.1. Use ml5js or the CV2 libary to analyse the video stream for fire and other objects / indications of fire / dangers.
+	2.1. Use ml5js or the CV2 libary to analyse the video stream for fire and other objects / indications of fire / dangers
 
 3. If fire or another danger is detected:
-	3.1. Send the drones coordinates.
-	3.2. Send a image to the drone operator.
-	3.3. Alert the drone operator.
+	3.1. Send the drones coordinates
+	3.2. Send a image to the drone operator
+	3.3. Alert the drone operator
 
 4. Path
 	4.1 Create a flight path
