@@ -1,8 +1,0 @@
-tello.takeoff()
-tello.move_up(30)
-tello.move_forward(300)
-tello.rotate_clockwise(90)
-tello.move_forward(100)
-tello.rotate_clockwise(90)
-tello.move_forward(300)
-tello.land()
